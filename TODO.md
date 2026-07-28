@@ -10,5 +10,5 @@
 - [x] 6. Build & verify compilation - SUCCESS
 
 ## Soon
-- [] 1. make `src/installer.rs` - add git2 to `Cargo.toml` so i can impl git
-- [] 2. make all installed packages go to `./lib/`
+- [ ] 1. make `src/installer.rs` - add git2 to `Cargo.toml` so i can impl git
+- [ ] 2. make all installed packages go to `./lib/`
